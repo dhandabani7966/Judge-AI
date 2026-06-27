@@ -1,7 +1,7 @@
 streamlit
 pdfplumber
 python-docx
-scikit-learn==1.3.2
+scikit-learn
 joblib
 nltk
 sumy
