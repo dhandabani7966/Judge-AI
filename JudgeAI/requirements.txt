@@ -1,5 +1,5 @@
 python-docx==1.2.0
-fitz==0.0.1.dev2
+PyMuPDF==1.24.0
 joblib==1.5.3
 pandas==2.3.3
 reportlab==5.0.0
