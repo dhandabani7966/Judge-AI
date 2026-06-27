@@ -1,5 +1,10 @@
 # ⚖️ JudgeAI – AI Powered Legal Intelligence Platform
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
 > Transforming Legal Document Analysis with Artificial Intelligence
 
 JudgeAI is an advanced AI-powered legal intelligence platform designed to simplify the analysis of court judgments and legal documents. The system leverages Natural Language Processing (NLP), Machine Learning, and Intelligent Document Processing to automatically extract legal insights, generate concise summaries, identify critical legal information, predict case outcomes, and generate professional reports.
